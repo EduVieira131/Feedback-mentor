@@ -35,6 +35,12 @@ P.S.: Esse projeto foi baseado em um desafio do programa *Explorer* da @rocketse
 
 <br>
 
+## Acesse o projeto!
+
+[Feedback mentor](https://eduvieira131.github.io/Feedback-mentor/)
+
+<br>
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
